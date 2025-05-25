@@ -45,7 +45,7 @@ body {
     font-weight: 700;
     font-size: 2vw;
     position: absolute;
-    top: 4vw;
+    top: 5vw;
     left: -1.5vw;
     transform: rotate(-90deg);
     user-select: none;
@@ -70,7 +70,6 @@ body {
 
 .sm-product-img {
     width: 100%;
-    height: 15vw;
     object-fit: cover;
 }
 
